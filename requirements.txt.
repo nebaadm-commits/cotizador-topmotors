@@ -1,2 +1,2 @@
 streamlit
-reportlab
+reportlab==4.2.5
