@@ -374,7 +374,7 @@ def generar_pdf_web(folio_actual):
   c.drawString(
       190, height - 38, "Camino Real de Colima #45, Col. las Pomas, Tlaquepaque, Jal."
   )
-  c.drawString(190, height - 50, "Tel: 33 3378 7293  /  33 3631 0784")
+  c.drawString(190, height - 50, "Tel: 33 3225 5557  /  33 3631 0784")
   c.setFont("Helvetica", 8)
   c.drawString(
       190, height - 62, "HORARIO: L-V 8:30 AM - 6 PM / S 8:30 AM - 2 PM"
